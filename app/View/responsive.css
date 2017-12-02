@@ -1,0 +1,764 @@
+@media screen and (min-width: 1628px){
+	.tieude_hethong {
+    text-align: right;
+    width: 48%;
+    float: right;
+    font-size: 1vw!important;
+    font-weight: bold;
+    margin-top: 8px !important;
+		}
+}
+
+
+/*Ipad ngang(1024 x 768)*/
+@media screen and (max-width: 1024px){
+    
+}
+
+}
+@media screen and (max-width: 800px){
+	.tieude_hethong {
+    text-align: right;
+    width: 48%;
+    float: right;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 9px !important;
+}
+
+	.div_end {
+    padding-bottom: 137px!important;
+}
+
+	#id_btn_xn {
+    width: 96px;
+    background-position: 5px center;
+    border: 0;
+    float: left;
+    margin-left: 15%;
+    padding-right: 0px;
+}
+	
+	#quanlynhom {
+    color: white;
+    height: 100%;
+    font-weight: bold;
+    padding-top: 15px!important;
+    padding-left: 5px!important;
+    padding-right: 5px;
+}
+.menuquantri_1 {
+    color: white;
+    height: 100%;
+    font-weight: bold;
+    padding-top: 10px!important;
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+    /* font-size: 16px; */
+}
+.thongke {
+    width: 69%!important;
+    margin-left: 19.5%!important;
+}
+#btn_download {
+    width: 76%!important;
+    margin-left: 17%!important;
+}
+.title_tkmt {
+    color: #2f83b7;
+    text-align: center;
+    width: 100%;
+    margin-top: 8px;
+    font-size: 16px;
+}
+.select_bieudo_thongke {
+    display: inline;
+    color: #2f83b7;
+    text-align: center;
+    width: 80%;
+    margin-bottom: 9px;
+    font-size: 16px;
+    float: left;
+    margin-left: 12%;
+}
+	
+}
+@media screen and (max-width: 767px){
+	#top_menu {
+    float: left;
+    width: 100%;
+    background-color: #2f83b7;
+    height: 43px;
+    display: block
+}
+    #top_menu{
+		display: block;
+	}
+	.user_name_login{
+		display: none;
+	}
+	.company{
+		display: none;
+	}
+	#logout{
+		font-size: 2vw;
+	}
+	#a_user {
+		font-size: 2vw;
+	}
+	.div_char {
+    width: 100%;
+    margin-right: 2%;
+    float: left;
+    margin-top: 14px;
+    height: auto;
+    overflow: hidden;
+}
+#select_thongke {
+    width: 53%;
+}
+#btn_download {
+    width: 37%!important;
+    margin-left: 32%!important;
+  
+}
+#id_btn_xn {
+    width: 96px;
+    background-position: 5px center;
+    border: 0;
+    float: left;
+    margin-left: 15%;
+    padding-right: 0px;
+}
+}
+
+@media screen and (min-width: 768px){
+	
+	.mau_menu {
+    padding: 15px 4px!important;
+	}
+	
+}
+@media screen and (min-width: 992px){
+	.mau_menu {
+    padding: 15px 11px!important;
+}
+
+}
+@media screen  and(max-width: 991px){
+	
+	.mau_menu {
+    padding: 15px 4px!important;
+	}
+}
+/*Ipad dọc(768 x 1024)*/
+@media screen and (max-width: 768px){
+
+	.div_end {
+    padding-bottom: 149px!important;
+}
+	#id_btn_xn {
+    width: 96px;
+    background-position: 5px center;
+    border: 0;
+    float: left;
+    margin-left: 15%;
+    padding-right: 0px;
+   
+}
+@media screen and (max-width: 640px){
+	.tieude_hethong {
+    width: 48%;
+    margin-top: 9px !important;
+    float: right;
+    margin-right: 2%!important;
+    background: none;
+    font-size: 13px;
+}
+	.div_end {
+    padding-bottom: 0px!important;
+}
+	#btn_download {
+    width: 43%!important;
+    margin-left: 30%!important;
+}
+	.thongke {
+    width: 84%!important;
+    margin-left: 9.5%!important;
+}
+	.menu_trang_quantri_mobile {
+    height: 80px!important;
+    font-size: 13px!important;
+    margin-left: 0px!important;
+}
+.menu_trang_quantri_mobile li {
+    height: 80px!important;
+}
+
+#id_btn_xn {
+    width: 96px;
+    background-position: 5px center;
+    border: 0;
+    float: left;
+    margin-left: 34%;
+    padding-right: 0px;
+}
+}
+/*Tablet nhỏ(480 x 640)*/
+@media screen and (max-width: 480px){
+
+
+.title_update_env {
+    color: #2f83b7;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 9px;
+    margin-top: 100px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.title_update_rain {
+    color: #2f83b7;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 9px;
+    margin-top: 20px;
+    font-size: 17px;
+    font-weight: bold;
+}
+#btn_add_map_mobile {
+    display: block!important;
+    width: 100%;
+    border-radius: 10px;
+    background-image: url(../img/icon/add2.png);
+    background-repeat: no-repeat;
+    background-position: 31% center;
+    margin-bottom: 5px;
+    margin: 0px;
+}
+	.thongke {
+    width: 84%!important;
+    margin-left: 9%!important;
+}
+#select_thongke {
+    width: 67%;
+}
+
+	#btn_download {
+    width: 66%!important;
+    margin-left: 17%!important;
+    font-size: 3vw;
+    background-size: 14px;
+    background-position: 11%;
+}
+
+	.menu_trang_quantri_mobile li {
+    height: 84px!important;
+}
+
+	.menu_trang_quantri_mobile {
+    height: 84px!important;
+    font-size: 13px!important;
+    margin-left: 0px!important;
+}
+
+
+
+    #div_tram_canh_bao_moblie{
+    	width: 25%;
+    }
+    #form_tram 
+    {
+	    float: left;
+	    width: 100%;
+	}
+	#tram_canh_bao_mobile {
+    margin-top: 6px;
+    width: 100%;
+    font-size: 2.5vw;
+    height: 31px;
+}
+.select_bieudo_thongke {
+    
+    margin-left: 10%;
+}
+#id_save_tram {
+    margin-left: 35%;
+    padding-left: 10.5%;
+    padding-right: 2%;
+    color: white;
+    font-weight: bold;
+    background-position: 8px center;
+}
+#id_huy_tram {
+    margin-left: 2%;
+    padding-left: 10.5%;
+    padding-right: 2%;
+    color: white;
+    font-weight: bold;
+    background-position: 8px center;
+}
+@media screen and (max-width: 414px){
+	.tieude_hethong {
+    text-align: right;
+    width: 48%;
+    float: right;
+    font-weight: bold;
+    margin-top: 9px !important;
+    font-size: 9px;
+}
+	#logout {
+    font-size: 2.5vw;
+}
+#btn_download {
+    width: 66%!important;
+    margin-left: 17%!important;
+    font-size: 3.5vw;
+    background-size: 14px;
+    background-position: 6%;
+}
+
+
+	#select_thongke {
+    width: 77%;
+}
+#a_user {
+    color: white;
+    font-weight: bold;
+    background: url(../img/user1.png) no-repeat;
+    background-size: 20% 10px;
+    padding-left: 14%;
+    font-size: 2.5vw;
+    text-decoration: none;
+    width: 100%;
+}
+
+#select_thongke {
+    width: 77%;
+}
+.menuquantri_1 {
+    color: white;
+    height: 100%;
+    font-weight: bold;
+    padding-top: 2px!important;
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+    /* font-size: 16px; */
+}
+
+}
+@media screen and (max-width: 384px)
+{
+	#select_thongke {
+    width: 84%;
+
+}
+.tieude_hethong {
+    text-align: right;
+    width: 48%;
+    float: right;
+    font-weight: bold;
+    margin-top: 9px !important;
+    font-size: 8px;
+}
+}
+@media screen and (max-width: 375px)
+{
+	.tieude_hethong {
+    text-align: right;
+    width: 48%;
+    float: right;
+    font-weight: bold;
+    margin-top: 9px !important;
+    font-size: 8px;
+}
+	#select_thongke {
+    width: 86%;
+}
+.title_page {
+    font-size: 13px!important;
+}
+#btn_download {
+    width: 75%!important;
+    margin-left: 13%!important;
+    font-size: 4vw;
+    background-size: 14px;
+    background-position: 6%;
+}
+
+
+}
+@media screen and (max-width: 360px){
+			.menu_trang_quantri_mobile {
+    height: 100px!important;
+    font-size: 13px!important;
+    margin-left: 0px!important;
+}
+.menu_trang_quantri_mobile li {
+    height: 100px!important;
+}
+}
+/*Iphone(480 x 640)*/
+@media screen and (max-width: 320px){
+
+	.tieude_hethong {
+    text-align: right;
+    width: 48%;
+    float: right;
+    font-weight: bold;
+    margin-top: 9px !important;
+    font-size: 7px;
+}
+	.tep_file{
+	font-size: 13px;
+}
+	.menu_trang_quantri_mobile li {
+    height: 110px!important;
+}
+	.menuquantri_1 {
+    color: white;
+    height: 100%;
+    font-weight: bold;
+    padding-top: 5px!important;
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+    /* font-size: 16px; */
+}
+	#quanlynhom {
+    font-weight: bold;
+    font-size: 13px!important;
+    padding: 14px 0px !important;
+}
+
+	.menu_trang_quantri_mobile {
+    height: 111px!important;
+    font-size: 13px!important;
+    margin-left: 0px!important;
+}
+	#id_save_tram {
+    margin-left: 30%;
+    padding-left: 12.5%;
+    padding-right: 2%;
+    color: white;
+    font-weight: bold;
+    background-position: 8px center;
+}
+#id_huy_tram {
+    margin-left: 2%;
+    padding-left: 12.5%;
+    padding-right: 2%;
+    color: white;
+    font-weight: bold;
+    background-position: 8px center;
+}
+    
+   .div_select 
+   {
+    width: 0%;
+    position: relative;
+    left: 19%;
+    top: -56px;
+	}
+	#div_tram_canh_bao_moblie {
+    	width: 36%;
+	}
+	#tram_canh_bao_mobile {
+	    margin-top: 6px;
+	    width: 100%;
+	    font-size: 3.5vw;
+	    height: 31px;
+	}
+	#a_user {
+    font-size: 2.5vw;
+    background-size: 10px 10px;
+	}
+	#logout {
+    font-size: 2.5vw;
+	}
+}
+@media screen and (max-width: 360px){
+		.menu_trang_quantri_mobile li {
+    height: 109px!important;
+}
+
+
+	#logout {
+    font-size: 2.5vw;
+}
+	#a_user {
+    font-size: 2.5vw;
+    background-size: 9px 8px;
+}
+	#id_save_tram {
+    margin-left: 32%;
+   
+}
+
+	.menuquantri_1 {
+    color: white;
+    height: 100%;
+    font-weight: bold;
+    padding-top: 10px!important;
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+    /* font-size: 16px; */
+}
+
+
+
+	#id_btn_xn {
+    width: 96px;
+    background-position: 5px center;
+    border: 0;
+    float: left;
+    margin-left: 21%;
+    padding-right: 0px;
+}
+
+#btn_add_map_mobile {
+    display: block!important;
+    width: 100%;
+    border-radius: 10px;
+    background-image: url(../img/icon/add2.png);
+    background-repeat: no-repeat;
+    background-position: 28% center;
+    margin-bottom: 5px;
+    margin: 0px;
+}
+
+	#select_thongke {
+    width: 81%;
+    font-size: 3.5vw;
+}
+#btn_download {
+    width: 73%!important;
+    margin-left: 14%!important;
+    font-size: 4vw;
+    background-size: 13px;
+}
+}
+
+/*Smart phone nhỏ*/
+@media screen and (max-width: 240px ){
+	.tieude_hethong {
+    width: 48%;
+    font-size: 5.3px;
+}
+	.tep_file {
+    font-size: 8px;
+}
+	.btn_save_group {
+    margin-left: 12%!important;
+    padding: 6px 5px!important;
+    font-size: 17px!important;
+    background-position: 9px center!important;
+}
+
+	.menu_trang_quantri_mobile li {
+    height: 130px!important;
+}
+
+	.menu_trang_quantri_mobile {
+    height: 130px!important;
+    font-size: 13px!important;
+    margin-left: 0px!important;
+}
+
+	#id_btn_xn {
+    width: 96px;
+    background-position: 5px center;
+    border: 0;
+    float: left;
+    margin-left: 10%;
+    padding-right: 0px;
+}
+
+	.input_info{
+	font-size: 17px
+}
+	#btn_add_map_mobile {
+    display: block!important;
+    width: 100%;
+    border-radius: 10px;
+    background-image: url(../img/icon/add2.png);
+    background-repeat: no-repeat;
+    background-position: 15% center;
+    margin-bottom: 5px;
+    margin: 0px;
+}
+	.title_form_cb {
+    margin-left: 7.5%!important;
+    font-size: 23px;
+}
+	#co_db {
+    background-color: red;
+    width: 107%;
+    float: left;
+}
+#khong_db {
+    background-color: green;
+    width: 107%;
+    float: left;
+}
+	#id_btn_xn {
+    width: 96px;
+    background-position: 5px center;
+    border: 0;
+    float: left;
+    margin-left: 10%;
+    padding-right: 0px;
+}
+#id_btn_huy {
+    float: left;
+    background-position: 9px center;
+    width: 96px;
+    color: white;
+    margin-left: 4px;
+    padding: 5px 31px;
+}
+
+	#id_save_tram {
+    margin-left: 25%;
+    padding-left: 18.5%;
+    padding-right: 2%;
+    color: white;
+    font-weight: bold;
+    background-position: 8px center;
+	}
+	#id_huy_tram {
+    margin-left: 2%;
+    padding-left: 18.5%;
+    padding-right: 2%;
+    color: white;
+    font-weight: bold;
+    background-position: 8px center;
+	}
+
+	#select_thongke {
+    width: 93%;
+    font-size: 3.9vw;
+}
+	#btn_download {
+    width: 79%!important;
+    margin-left: 13%!important;
+    font-size: 4vw;
+	}
+	#dactrung {
+    width: 40%!important;
+	}
+	#a_user {
+    font-size: 3vw;
+	}
+	#logout {
+    font-size: 3vw;
+	}
+	#table_capcb
+	{
+   		width: 231%;
+	}
+	.div_select {
+	    width: 0%;
+	    position: relative;
+	    left: 26%;
+	    top: -57px;
+	}
+	.user_mobile {
+	    position: relative;
+	    left: -39%;
+	    top: -21px;
+	    background-position: 9px center!important;
+	    width: 119%;
+	}
+	#home_div 
+	{
+   		width: 300%!important;
+	}
+	.tieude_hethong {
+   
+   		width: 48%;
+   		font-size: 2vw!important;
+}
+.btn_save_tram {
+    background-position: 11px center!important;
+    padding: 5px 36px!important;
+    background-size: 15px!important;
+    font-size: 16px;
+    margin-left: 0%!important;
+}
+#id_savetram{
+	width: 110px;   
+	}
+#id_huytram{
+	width: 110px;   
+	}
+    
+}
+    
+}
+/*galaxy s5*/
+@media screen and (max-width: 360px){
+
+
+
+
+	
+	.title_form_cb {
+    margin-left: 17.5%!important;
+}
+    .homedataupdate{
+    	width: 2%;
+    }
+    .tieude_hethong 
+    {
+   		width: 48%;
+	}
+	.div_select {
+    width: 0%;
+    position: relative;
+    left: 23%;
+    top: -67px;
+}
+
+
+
+}
+@media screen and (max-width: 240px ){
+
+	.input_firmware{
+		font-size: 17px;
+	}
+	.title_form_cb {
+    margin-left: 7.5%!important;
+    font-size: 23px;
+}
+#khong_db {
+    background-color: green;
+    width: 108%;
+    float: left;
+}
+#co_db {
+    background-color: red;
+    width: 108%;
+    float: left;
+}
+.th_add{
+	font-size: 15px;
+}
+.menuquantri_1 {
+    font-size: 10px!important;
+}
+.menuquantri {
+    font-size: 10px!important;
+    padding: 30px 0px !important;
+}
+#quanlynhom {
+    font-weight: bold;
+    font-size: 10px!important;
+    padding: 15px 0px !important;
+}
+}
+@media screen and (min-width: 1024px){
+	.mau_menu{
+        padding: 15px 10px!important;
+    }
+	}

@@ -1,0 +1,31 @@
+.chitiet{
+    float: left;
+    margin-left: 5px;
+    
+    background-color: #2f83b7 !important;
+    background-size: 11px;
+    width: 71px;
+    font-size: 11px;
+  }
+ .taixuong{
+        float: left;
+        background-image: url(../img/icon/btn_download.png);
+        background-repeat: no-repeat;
+        background-position: 5px center;
+        padding-left: 17px!important;
+        background-color: #2f83b7 !important;
+        background-size: 11px;
+        width: 82px;
+        font-size: 11px;
+      }
+  .xemvideo{
+        float: left;
+        background-image: url(../img/icon/video.png);
+        background-repeat: no-repeat;
+        background-position: 12px center;
+        padding-left: 22px;
+        background-color: #2f83b7 !important;
+        background-size: 11px;
+        width: 82px;
+        font-size: 11px;
+  }

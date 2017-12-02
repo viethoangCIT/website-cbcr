@@ -1,0 +1,58 @@
+  <meta charset="utf-8">
+
+  <!--bảng dữ liệu  -->
+  <style type="text/css">
+    
+    
+
+  </style>
+
+  <div class="">
+    <table border="1" >
+
+      <thead>
+        <tr>
+          <th colspan="23" style="font-size: 20px;font-weight: 10px; text-align: center;">
+             BẢNG THỐNG KÊ CÁC VỤ CHÁY RỪNG
+          </th>
+        </tr>
+        
+        <thead>
+          <tr >
+            <th >STT</th>
+            <th  >Ngày/tháng/năm</th>
+            <th  >Nhiệt độ (⁰C)</th>
+            <th >Độ ẩm (px)</th>
+            <th >Lượng mưa(mm)</th>
+            <th  >Hướng gió</th>
+            <th >Chỉ số P</th>
+            <th  >Chỉ số H</th>
+            <th  >Cấp dự báo</th>
+            <th  >Huyện</th>
+
+            <th >Xã</th>
+
+            <th  >Tiêu khu</th>
+            <th  >Địa danh</th>
+            <th  >Tọa độ X</th>
+            <th  >Tọa độ Y</th>
+            <th  >Thời điểm phát lửa(giờ/phút)</th>
+            <th >Thời điểm kết thúc(giờ/phút)</th>
+
+            <th  >Rừng tự nhiên(ha)</th>                
+            <th  >Rừng trồng(ha)</th>
+            <th  >Cây bụi cỏ(ha)</th>                
+            <th >Loại khác(ha)</th>
+            <th  >Tổng diện tích cháy(ha)</th>                
+            <th  >Chủ rừng</th>
+           
+          </tr>
+
+        </thead>
+        <tbody >
+
+
+                    </tbody>
+
+        </table>
+  </div>

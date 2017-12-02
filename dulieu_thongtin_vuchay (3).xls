@@ -1,0 +1,172 @@
+<table border = "1">
+<thead>
+  <tr class='v_mid'>
+    <th style="width: 20px">STT</th>
+    <th style="width: 30px">Ngày/tháng/năm</th>
+    <th style="width: 1px">Nhiệt độ (⁰C)</th>
+    <th style="width:  1px">Độ ẩm (px)</th>
+    <th style="width:  1px">Lượng mưa(mm)</th>
+    <th style="width:  3px">Hướng gió</th>
+    <th style="width:  3px">Chỉ số P</th>
+    <th style="width:  3px">Chỉ số H</th>
+    <th style="width: 3px">Cấp dự báo</th>
+    <th style="width: 3px">Xác nhận</th>
+    <th style="width:  13px">Huyện</th>
+
+    <th style="width:  13px">Xã</th>
+
+    <th style="width:  13px">Tiêu khu</th>
+    <th style="width:  13px">Địa danh</th>
+    <th style="width: 5px">Tọa độ X</th>
+    <th style="width:  5px">Tọa độ Y</th>
+    <th style="width:  3px">Thời điểm phát lửa(giờ/phút)</th>
+    <th style="width:  3px">Thời điểm kết thúc(giờ/phút)</th>
+
+    <th style="width:  3px">Rừng tự nhiên(ha)</th>								
+    <th style="width: 3px">Rừng trồng(ha)</th>
+    <th style="width: 3px">Cây bụi cỏ(ha)</th>								
+    <th style="width: 3px">Loại khác(ha)</th>
+    <th style="width:  3px">Tổng diện tích cháy(ha)</th>								
+    <th style="width: 7px">Chủ rừng</th>
+
+  </tr>
+
+</thead>
+<tbody class='body_mid'>
+
+
+      <tr>
+      <td>1</td>
+      <td>21-11-2017</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Có</td>
+      <td></td>
+      <td></td>
+
+      <td></td>
+
+      <td></td>
+      
+      <td>4.087780</td>
+      <td></td>
+
+      <td></td>
+      <td></td>
+
+
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    
+        <tr>
+      <td>2</td>
+      <td>21-11-2017</td>
+      <td>40</td>
+      <td>50</td>
+      <td></td>
+      <td>t</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Có</td>
+      <td></td>
+      <td></td>
+
+      <td></td>
+
+      <td></td>
+      
+      <td>4.087780</td>
+      <td></td>
+
+      <td></td>
+      <td></td>
+
+
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    
+        <tr>
+      <td>3</td>
+      <td>20-11-2017</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Có</td>
+      <td></td>
+      <td></td>
+
+      <td></td>
+
+      <td></td>
+      
+      <td>4.087780</td>
+      <td></td>
+
+      <td></td>
+      <td></td>
+
+
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    
+        <tr>
+      <td>4</td>
+      <td>20-11-2017</td>
+      <td>60</td>
+      <td>50</td>
+      <td>0</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Có</td>
+      <td>Hòa Vang</td>
+      <td>Hòa Bắc</td>
+
+      <td></td>
+
+      <td>Da Nang</td>
+      
+      <td>4.087780</td>
+      <td>0.086650</td>
+
+      <td></td>
+      <td></td>
+
+
+      <td>4</td>
+      <td>5</td>
+      <td>6</td>
+      <td></td>
+      <td>15</td>
+      <td></td>
+    </tr>
+    
+      </tbody>
+
+</table>
